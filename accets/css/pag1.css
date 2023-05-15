@@ -1,0 +1,35 @@
+
+body {
+    background-color: gainsboro;
+}
+
+#cont {
+    display: flex;
+    margin: 2%;
+    padding: 1%;
+
+}
+
+
+#div1 {
+    background-color: white;
+    padding-bottom: 1%;
+    padding: 2%;
+    margin-left: 22%;
+    border-radius: 3%;
+}
+
+
+#div2 {
+    background-color: white;
+    padding-bottom: 1%;
+    padding: 2%;
+    margin-left: 10%;
+    border-radius: 3%;
+
+}
+
+#tit {
+    text-align: center;
+    
+}
